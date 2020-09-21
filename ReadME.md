@@ -25,9 +25,9 @@ width="712">&nbsp;&nbsp;&nbsp;
 width="712">&nbsp;&nbsp;&nbsp;
 
 - Menghapus Data Warga
-<img src="https://github.com/tejkusuma/Program-Aplikasi-Pendataan-Warga-Menggunakaan-VBA-EXCEL/blob/master/demo/hapus%20data.gif"
+<img src="https://github.com/tejkusuma/Program-Aplikasi-Pendataan-Warga-Menggunakaan-VBA-EXCEL/blob/master/demo/Hapus%20data.gif"
 width="712">&nbsp;&nbsp;&nbsp;
 
 - Mengedit Data Warga
-<img src="https://github.com/tejkusuma/Program-Aplikasi-Pendataan-Warga-Menggunakaan-VBA-EXCEL/blob/master/demo/edit%20data.gif"
+<img src="https://github.com/tejkusuma/Program-Aplikasi-Pendataan-Warga-Menggunakaan-VBA-EXCEL/blob/master/demo/Edit%20data.gif"
 width="712">&nbsp;&nbsp;&nbsp;
